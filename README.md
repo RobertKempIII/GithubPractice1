@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bobby Kemp's first assignment
 
 You can use the [editor on GitHub](https://github.com/RobertKempIII/GithubPractice1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
